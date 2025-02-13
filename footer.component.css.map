@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/footer/footer.component.css"],
+  "sourcesContent": [".btn {\n    background-color: #3b5998;\n    border-radius: 50%;\n    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease, box-shadow 0.3s ease;\n}\n\n/* Effetto hover che solleva l'icona di 2px */\n.btn:hover {\n    transform: translateY(-2px); /* Alza l'icona di 2px */\n    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.2); /* Ombra pi\u00F9 marcata durante l'hover */\n}\n\n.bg-body-footer {\n    background-color: #0a822e;\n}"],
+  "mappings": ";AAAA,CAAC;AACG,oBAAkB;AAClB,iBAAe;AACf,cAAY,IAAI,IAAI,IAAI,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACtC,cAAY,UAAU,KAAK,IAAI,EAAE,WAAW,KAAK;AACrD;AAGA,CARC,GAQG;AACA,aAAW,WAAW;AACtB,cAAY,IAAI,IAAI,KAAK,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AAC3C;AAEA,CAAC;AACG,oBAAkB;AACtB;",
+  "names": []
+}
