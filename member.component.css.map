@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/member/member.component.css"],
-  "sourcesContent": ["/* Imposta il contenitore come contesto di posizionamento */\n.img-service {\n    position: relative;\n  }\n  \n  /* Immagine del logo: posizionata assolutamente e sotto l'immagine removebg */\n  .bg-image {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    z-index: 1;\n  }\n  \n  /* Immagine removebg: posizionata in primo piano */\n  .member-image {\n    position: relative;\n    z-index: 2;\n  }"],
-  "mappings": ";AACA,CAAC;AACG,YAAU;AACZ;AAGA,CAAC;AACC,YAAU;AACV,OAAK;AACL,QAAM;AACN,SAAO;AACP,UAAQ;AACR,cAAY;AACZ,WAAS;AACX;AAGA,CAAC;AACC,YAAU;AACV,WAAS;AACX;",
-  "names": []
-}
